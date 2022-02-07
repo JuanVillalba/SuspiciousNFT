@@ -1,0 +1,45 @@
+{
+  "file_path": "https://raw.githubusercontent.com/JuanVillalba/SuspiciousNFT/main/54.png",
+  "nft_name": "Suspects_NFT #54",
+  "external_link": "https://www.allanimesnft.xyz/",
+  "description": "Find your Favorite Character. Some are unique and will serve to solve a Mystery that occurs in a Mansion. Choose your Character wisely.",
+  "collection": "Suspects_NFT",
+  "properties": [
+    {
+      "type": "Background",
+      "name": "Green_Round Frame"
+    },
+    {
+      "type": "Characters",
+      "name": "Elephant"
+    },
+    {
+      "type": "Hats",
+      "name": "Hat"
+    },
+    {
+      "type": "Paintings",
+      "name": "Lying down"
+    },
+    {
+      "type": "Tickets",
+      "name": "Poisoner"
+    },
+    {
+      "type": "Weapons",
+      "name": "Knight"
+    }
+  ],
+  "levels": [],
+  "stats": [],
+  "unlockable_content": [],
+  "explicit_and_sensitive_content": false,
+  "supply": 1,
+  "blockchain": "Polygon",
+  "price": 0.005,
+  "quantity": 1,
+  "dna": "e763f5d0cbb2471540c6bd34616eafc47c10b641",
+  "edition": 54,
+  "date": 1644273559046,
+  "compiler": "HashLips Art Engine"
+}

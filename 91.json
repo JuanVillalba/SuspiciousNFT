@@ -1,0 +1,45 @@
+{
+  "file_path": "https://raw.githubusercontent.com/JuanVillalba/SuspiciousNFT/main/91.png",
+  "nft_name": "Suspects_NFT #91",
+  "external_link": "https://www.allanimesnft.xyz/",
+  "description": "Find your Favorite Character. Some are unique and will serve to solve a Mystery that occurs in a Mansion. Choose your Character wisely.",
+  "collection": "Suspects_NFT",
+  "properties": [
+    {
+      "type": "Background",
+      "name": "Light Blue_Round Frame"
+    },
+    {
+      "type": "Characters",
+      "name": "Beaver"
+    },
+    {
+      "type": "Hats",
+      "name": "Hat"
+    },
+    {
+      "type": "Paintings",
+      "name": "Seated Man"
+    },
+    {
+      "type": "Tickets",
+      "name": "Mayor"
+    },
+    {
+      "type": "Weapons",
+      "name": "Killer_Toy"
+    }
+  ],
+  "levels": [],
+  "stats": [],
+  "unlockable_content": [],
+  "explicit_and_sensitive_content": false,
+  "supply": 1,
+  "blockchain": "Polygon",
+  "price": 0.005,
+  "quantity": 1,
+  "dna": "9bec34f1cbe012ab9597d9d9de84f2086ab727fc",
+  "edition": 91,
+  "date": 1644273561748,
+  "compiler": "HashLips Art Engine"
+}

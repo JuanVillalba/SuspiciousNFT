@@ -1,0 +1,45 @@
+{
+  "file_path": "https://raw.githubusercontent.com/JuanVillalba/SuspiciousNFT/main/83.png",
+  "nft_name": "Suspects_NFT #83",
+  "external_link": "https://www.allanimesnft.xyz/",
+  "description": "Find your Favorite Character. Some are unique and will serve to solve a Mystery that occurs in a Mansion. Choose your Character wisely.",
+  "collection": "Suspects_NFT",
+  "properties": [
+    {
+      "type": "Background",
+      "name": "Light Blue_Round Frame"
+    },
+    {
+      "type": "Characters",
+      "name": "Doberman"
+    },
+    {
+      "type": "Hats",
+      "name": "Ares"
+    },
+    {
+      "type": "Paintings",
+      "name": "Bearded Man"
+    },
+    {
+      "type": "Tickets",
+      "name": "Boogieman"
+    },
+    {
+      "type": "Weapons",
+      "name": "Desert_Survivor"
+    }
+  ],
+  "levels": [],
+  "stats": [],
+  "unlockable_content": [],
+  "explicit_and_sensitive_content": false,
+  "supply": 1,
+  "blockchain": "Polygon",
+  "price": 0.005,
+  "quantity": 1,
+  "dna": "6ab5fe85f7800d9fe5b636c2e35fd976a4064c1c",
+  "edition": 83,
+  "date": 1644273561138,
+  "compiler": "HashLips Art Engine"
+}

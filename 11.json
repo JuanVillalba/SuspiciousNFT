@@ -1,0 +1,45 @@
+{
+  "file_path": "https://raw.githubusercontent.com/JuanVillalba/SuspiciousNFT/main/11.png",
+  "nft_name": "Suspects_NFT #11",
+  "external_link": "https://www.allanimesnft.xyz/",
+  "description": "Find your Favorite Character. Some are unique and will serve to solve a Mystery that occurs in a Mansion. Choose your Character wisely.",
+  "collection": "Suspects_NFT",
+  "properties": [
+    {
+      "type": "Background",
+      "name": "Light Blue_Wavy Frame"
+    },
+    {
+      "type": "Characters",
+      "name": "Beaver"
+    },
+    {
+      "type": "Hats",
+      "name": "Captain Wanda"
+    },
+    {
+      "type": "Paintings",
+      "name": "Medo"
+    },
+    {
+      "type": "Tickets",
+      "name": "Inspector"
+    },
+    {
+      "type": "Weapons",
+      "name": "Desert_Survivor"
+    }
+  ],
+  "levels": [],
+  "stats": [],
+  "unlockable_content": [],
+  "explicit_and_sensitive_content": false,
+  "supply": 1,
+  "blockchain": "Polygon",
+  "price": 0.005,
+  "quantity": 1,
+  "dna": "d6116bf632c67b292da70cdb71dc16c77bffae14",
+  "edition": 11,
+  "date": 1644273555909,
+  "compiler": "HashLips Art Engine"
+}

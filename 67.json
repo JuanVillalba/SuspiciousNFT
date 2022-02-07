@@ -1,0 +1,45 @@
+{
+  "file_path": "https://raw.githubusercontent.com/JuanVillalba/SuspiciousNFT/main/67.png",
+  "nft_name": "Suspects_NFT #67",
+  "external_link": "https://www.allanimesnft.xyz/",
+  "description": "Find your Favorite Character. Some are unique and will serve to solve a Mystery that occurs in a Mansion. Choose your Character wisely.",
+  "collection": "Suspects_NFT",
+  "properties": [
+    {
+      "type": "Background",
+      "name": "Pink_Wavy Frame"
+    },
+    {
+      "type": "Characters",
+      "name": "Eagle"
+    },
+    {
+      "type": "Hats",
+      "name": "Captain Wanda"
+    },
+    {
+      "type": "Paintings",
+      "name": "Bearded Man"
+    },
+    {
+      "type": "Tickets",
+      "name": "Detective"
+    },
+    {
+      "type": "Weapons",
+      "name": "Ice_Mage"
+    }
+  ],
+  "levels": [],
+  "stats": [],
+  "unlockable_content": [],
+  "explicit_and_sensitive_content": false,
+  "supply": 1,
+  "blockchain": "Polygon",
+  "price": 0.005,
+  "quantity": 1,
+  "dna": "c4ec5fa532b037711e2f5ed2d1f4c41f9e5b5240",
+  "edition": 67,
+  "date": 1644273559967,
+  "compiler": "HashLips Art Engine"
+}
